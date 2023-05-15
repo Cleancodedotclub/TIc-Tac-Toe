@@ -1,2 +1,1 @@
-# TIc-Tac-Toe
-The React.js Tic Tac Toe GitHub repository is a project that implements the classic tic tac toe game using React.js. The game allows two players to play against each other by taking turns to place X's and O's on a 3x3 grid. 
+The React.js Tic Tac Toe GitHub repository is a project that implements the classic tic tac toe game using React.js. The game allows two players to play against each other by taking turns to place X's and O's on a 3x3 grid. The project has been built with React hooks and uses CSS for styling. It includes features such as detecting when a player has won the game, the ability to restart the game, and displaying the player's turn. This project serves as a great example of using React.js to build a simple yet interactive game.
